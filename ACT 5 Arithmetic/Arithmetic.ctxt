@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Arithmetic
+comment1.params=
+comment1.target=double\ sum()
+comment2.params=
+comment2.target=double\ difference()
+comment3.params=
+comment3.target=double\ product()
+comment4.params=
+comment4.target=double\ quotient()
+comment5.params=X1\ Y1
+comment5.target=Arithmetic(double,\ double)
+numComments=6

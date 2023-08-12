@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Pizza
+comment1.params=
+comment1.target=java.lang.String\ getToppings()
+comment2.params=
+comment2.target=int\ getDiameter()
+comment3.params=
+comment3.target=double\ getPrice()
+comment4.params=toppings
+comment4.target=void\ setToppings(java.lang.String)
+comment5.params=diameter
+comment5.target=void\ setDiameter(int)
+comment6.params=price
+comment6.target=void\ setPrice(double)
+numComments=7

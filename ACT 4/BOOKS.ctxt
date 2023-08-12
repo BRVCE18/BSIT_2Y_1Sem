@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=BOOKS
+comment1.params=
+comment1.target=java.lang.String\ getAuthor()
+comment10.params=Publisher
+comment10.target=void\ setPublisher(java.lang.String)
+comment11.params=Yearofpublication
+comment11.target=void\ setYearofpublication(int)
+comment12.params=Amount
+comment12.target=void\ setAmount(double)
+comment2.params=
+comment2.target=java.lang.String\ getTitle()
+comment3.params=
+comment3.target=int\ getNoofpages()
+comment4.params=
+comment4.target=java.lang.String\ getPublisher()
+comment5.params=
+comment5.target=int\ getYearofpublication()
+comment6.params=
+comment6.target=double\ getAmount()
+comment7.params=Author
+comment7.target=void\ setAuthor(java.lang.String)
+comment8.params=Title
+comment8.target=void\ setTitle(java.lang.String)
+comment9.params=Noofpages
+comment9.target=void\ setNoofpages(int)
+numComments=13
